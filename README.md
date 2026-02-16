@@ -2,6 +2,7 @@
 
 ![Dashboard Preview](TCS DASHBOARDS.pdf)
 
+
 ## 📌 Project Overview
 
 This project is an interactive **Financial Performance Dashboard** built using **Power BI**, analyzing **TCS Q2 FY25 performance data**.
