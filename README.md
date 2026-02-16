@@ -24,26 +24,6 @@ This project demonstrates strong concepts of:
 * KPI Design
 * Business Intelligence Reporting
 
----
-
-## 🖥️ Dashboard Preview
-
-> 📌 Add your dashboard screenshot here
-> After uploading `dashboard.png` to your repo, use:
-
-```md
-![Dashboard Preview](dashboard.png)
-```
-
----
-
-## 📂 Project Files
-
-* `TCS DASHBOARDS.pbit` – Power BI Template File
-* `dashboard.png` – Dashboard Screenshot
-* `README.md` – Project Documentation
-
----
 
 ## 🛠️ Tools & Technologies Used
 
@@ -83,39 +63,14 @@ This project demonstrates strong concepts of:
 * Applying real-world business intelligence concepts
 * Data storytelling using visuals
 
----
-
-## 🚀 How to Use
-
-1. Download the `.pbit` file from this repository.
-2. Open it in **Power BI Desktop**.
-3. Connect to the dataset (if prompted).
-4. Explore interactive visuals.
-
----
 
 ## 📌 About Me
 
 👤 **Dheeraj R. Singh**
+
+ - Data Analyst | Power BI Developer | Excel Enthusiast
+
 📎 GitHub: [https://github.com/DHEERAJ09R08SINGH](https://github.com/DHEERAJ09R08SINGH)
-🔗 LinkedIn: *(Add your LinkedIn profile link here)*
+🔗 LinkedIn: [https://www.linkedin.com/in/dheeraj-r-singh/](https://www.linkedin.com/in/dheeraj-r-singh-9b4370250/)
 
-Aspiring Data Analyst | Power BI Developer | Excel Enthusiast
 
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and feel free to connect with me!
-
----
-
-If you want, I can also generate:
-
-* 🔥 A more advanced professional README (with sections like architecture & DAX formulas)
-* 🎯 A recruiter-focused version
-* 🏢 A corporate-style documentation version
-* 📊 README for multiple dashboards in one repo
-* 📝 A LinkedIn post for this exact GitHub upload
-
-Tell me which version you want 👌
