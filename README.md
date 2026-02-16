@@ -1,6 +1,6 @@
 # 📊 TCS Financial Performance Dashboard – Q2FY25
 
-![Dashboard Preview](TCS DASHBOARDS.pdf)
+![Dashboard Preview](Business_Metrics_Dashboard.png)
 
 
 ## 📌 Project Overview
